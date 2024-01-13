@@ -1,0 +1,29 @@
+Armenia,Colombia
+Barranquilla,Colombia
+Bogota,Colombia
+Bucaramanga,Colombia
+Buenaventura,Colombia
+Cali,Colombia
+Cartagena,Colombia
+Cucuta,Colombia
+Florencia,Colombia
+Ibague,Colombia
+Manizales,Colombia
+Medellin,Colombia
+Monteria,Colombia
+Neiva,Colombia
+Pasto,Colombia
+Pereira,Colombia
+Popayan,Colombia
+Quibdo,Colombia
+Riohacha,Colombia
+Sincelejo,Colombia
+Santa Marta,Colombia
+Tunja,Colombia
+Valledupar,Colombia
+Villavo,Colombia
+Arauca,Colombia
+Mocoa,Colombia
+Yopal,Colombia
+San Andres Islas,Colombia
+Leticia, Colombia
